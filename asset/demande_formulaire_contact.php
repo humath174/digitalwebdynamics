@@ -15,11 +15,11 @@ if ($conn->connect_error) {
 }
 
 // Récupérer les données du formulaire
-$nom = $_POST['contact-name'];
-$prenom = 0;
-$email = $_POST['contact-email'];
-$telephone = $_POST['contact-phone'];
-$description = $_POST['contact-message'];
+$nom = $_POST['nom'];
+$prenom = $_POST['prenom'];
+$email = $_POST['email'];
+$telephone = $_POST['telephone'];
+$description = $_POST['description'];
 $site_id = 3;  // La valeur fixe à ajouter
 
 // Préparer la requête SQL d'insertion avec la valeur fixe
