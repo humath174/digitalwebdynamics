@@ -122,6 +122,17 @@ include('asset/navbar.php');
                   </div>
                 </div>
               </form>
+              </div>
+          </div>
+        </div>
+        
+              <section class="section section-md bg-gray-100">
+        <div class="container">
+          <h3 class="text-center">Nous envoyer un message</h3>
+          <div class="row justify-content-center">
+            <div class="col-lg-11 col-xl-9">
+
+
               <form action="asset/demande_formulaire_contact.php" method="post">
               <div class="row row-x-16 row-20">
                   <div class="col-md-6">
@@ -160,6 +171,9 @@ include('asset/navbar.php');
                   <div class="col-md-6">
                     <div class="form-wrap form-button">
             <input type="submit" value="Envoyer">
+            </div>
+                  </div>
+                </div>
         </form>
             </div>
           </div>
