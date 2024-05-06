@@ -79,7 +79,7 @@ include('asset/navbar.php');
                 </div>
                 <p class="box-modern-title">Site de E-Commerce</p>
                 <div class="box-modern-text">
-                  <p>Allowing you to successfully deal with your company’s funds.</p>
+                  <p>Nous pouvons vous faire un site de vente en ligne.</p>
                 </div>
               </article>
             </div>
@@ -92,7 +92,7 @@ include('asset/navbar.php');
                 </div>
                 <p class="box-modern-title">Dashboard Complets</p>
                 <div class="box-modern-text">
-                  <p>Helping clients expand awareness and manage their reputation.</p>
+                  <p>Vous aurez acces a nostre dashboard complet pour pouvoir gerez votre site.</p>
                 </div>
               </article>
             </div>
@@ -118,7 +118,7 @@ include('asset/navbar.php');
                 </div>
                 <p class="box-modern-title">Visibilité</p>
                 <div class="box-modern-text">
-                  <p>Deep and detailed investigation of your company’s activity.</p>
+                  <p>Nous vous augmentons votre visibilité sur le web.</p>
                 </div>
               </article>
             </div>
