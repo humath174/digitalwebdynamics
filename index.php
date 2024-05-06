@@ -39,8 +39,8 @@ include('asset/navbar.php');
             <div class="container">
               <div class="block-custom">
                 <h2 class="font-weight-extra-black wow clipInLeft" data-wow-delay=".1s">Démarquer-vous de vos concurent </h2>
-                <h4 class="text-default-black wow clipInLeft" data-wow-delay=".1s">Création de site en fonction de vos entreprise, site de e-commerce, site de visibilité, ...
-                <br> Visibilité de votre entreprise sur le web
+                <h4 class="text-default-black wow clipInLeft" data-wow-delay=".1s">Création de sites adaptés à votre entreprise : sites e-commerce, sites de présentation, etc.
+                <br> Visibilité de votre entreprise sur le web.
                 </h4>
                 <div class="group-xl group-middle">
                   <div><a class="button button-lg button-white button-shadow button-winona wow clipInLeft" href="about-us.html" data-wow-delay=".2s">Voir plus sur notre entreprise</a></div>
@@ -66,7 +66,7 @@ include('asset/navbar.php');
                 </div>
                 <p class="box-modern-title">Site Internet</p>
                 <div class="box-modern-text">
-                  <p>Création de site internet qui permet de faire decouvrir l'entreprise.</p>
+                  <p>Création d'un site internet pour présenter l'entreprise.</p>
                 </div>
               </article>
             </div>
@@ -79,7 +79,7 @@ include('asset/navbar.php');
                 </div>
                 <p class="box-modern-title">Site de E-Commerce</p>
                 <div class="box-modern-text">
-                  <p>Nous pouvons vous faire un site de vente en ligne.</p>
+                  <p>Nous pouvons créer un site de vente en ligne pour vous.</p>
                 </div>
               </article>
             </div>
@@ -92,7 +92,7 @@ include('asset/navbar.php');
                 </div>
                 <p class="box-modern-title">Dashboard Complets</p>
                 <div class="box-modern-text">
-                  <p>Vous aurez acces a nostre dashboard complet pour pouvoir gerez votre site.</p>
+                  <p>Vous aurez accès à notre tableau de bord complet pour pouvoir gérer votre site.</p>
                 </div>
               </article>
             </div>
@@ -105,7 +105,7 @@ include('asset/navbar.php');
                 </div>
                 <p class="box-modern-title">Google Buisness</p>
                 <div class="box-modern-text">
-                  <p>Nous créons votre espace Google Buisness.</p>
+                  <p>Nous créons votre espace Google Business.</p>
                 </div>
               </article>
             </div>
@@ -118,7 +118,7 @@ include('asset/navbar.php');
                 </div>
                 <p class="box-modern-title">Visibilité</p>
                 <div class="box-modern-text">
-                  <p>Nous vous augmentons votre visibilité sur le web.</p>
+                  <p>Nous vous aidons à augmenter votre visibilité sur le web.</p>
                 </div>
               </article>
             </div>
@@ -131,7 +131,7 @@ include('asset/navbar.php');
                 </div>
                 <p class="box-modern-title">Consultant</p>
                 <div class="box-modern-text">
-                  <p>Se concentrer sur les problèmes et opportunités les plus critiques de nos clients.</p>
+                  <p>Se concentrer sur les problèmes et les opportunités les plus critiques de nos clients.</p>
                 </div>
               </article>
             </div>
@@ -145,11 +145,11 @@ include('asset/navbar.php');
             <div class="col-sm-10 col-lg-5 wow fadeInRightSmall">
               <div class="badge">A Propos de </div>
               <h3>Quelques mots sur nous</h3>
-              <p class="big inset-2">Notre société de développement web, vous aide pour la visibilité de votre entreprise sur le web :</p>
+              <p class="big inset-2">Notre société de développement web vous aide à accroître la visibilité de votre entreprise sur le web :</p>
               <ul class="list-marked">
-                <li>Analytics & Indexion de votre site </li>
-                <li>A l'écoute de vos clients</li>
-                <li>Permes de gerez vos demande de contact</li>
+                <li>Analyse et indexation de votre site. </li>
+                <li>À l'écoute de vos clients.</li>
+                <li>Permet de gérer vos demandes de contact.</li>
               </ul><a class="button button-primary button-shadow button-winona font-weight-sbold" href="about-us.html">Lire Plus</a>
             </div>
             <div class="col-sm-10 col-lg-6 wow fadeInLeftSmall">
@@ -170,10 +170,10 @@ include('asset/navbar.php');
             <div class="col-sm-10 col-lg-5 wow fadeInRightSmall">
               <div class="badge">Pourquoi-Nous</div>
               <h3>Raisons pour<br>Nous choisir</h3>
-              <p class="big inset-3" style="letter-spacing: .025em">Ce sont des pationnés qui sont a l'écoute de leurs clients. Et qui va s'adapter a vos projet.</p>
+              <p class="big inset-3" style="letter-spacing: .025em">Ce sont des passionnés qui sont à l'écoute de leurs clients et qui s'adaptent à vos projets.</p>
               <ul class="list-marked">
-                <li>Etudiant en informatique</li>
-                <li>Flexible et a l'écoute</li>
+                <li>Étudiant en informatique.</li>
+                <li>Flexible et à l'écoute.</li>
               </ul>
             </div>
             <div class="col-sm-10 col-lg-7 wow fadeInLeftSmall text-center"><img class="img-custom" src="images/jeune-bel-homme-au-bureau-aide-ordinateur.jpg" alt="" width="610" height="432"/>
@@ -190,7 +190,7 @@ include('asset/navbar.php');
                 <div class="block-5 wow clipInLeft">
                   <div class="badge wow clipInLeft">Ce sur quoi nous travaillons</div>
                   <h3 class="wow clipInLeft" data-wow-delay=".1s"><span>Parcourez nos dernières</span><br><span class="text-accent">Projet Web</span></h3>
-                  <p class="big wow clipInLeft inset-3" data-wow-delay=".2s">Venez parcourir nos dernier projet web. De la création web, a la visibilité sur internet.</p><a class="button button-default button-winona wow clipInLeft font-weight-sbold" href="#" data-wow-delay=".3s">Voir la gallery</a>
+                  <p class="big wow clipInLeft inset-3" data-wow-delay=".2s">Venez découvrir nos derniers projets web, de la création de sites à l'amélioration de la visibilité en ligne.</p><a class="button button-default button-winona wow clipInLeft font-weight-sbold" href="#" data-wow-delay=".3s">Voir la gallery</a>
                 </div>
               </div>
             </div>
