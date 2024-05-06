@@ -17,7 +17,7 @@
                   </li>
                   <li class="rd-nav-item"><a class="rd-nav-link" href="typography.html">Réalisation </a>
                   </li>
-                  <li class="rd-nav-item"><a class="rd-nav-link" href="contact-us.html">Contactez-Nous</a>
+                  <li class="rd-nav-item"><a class="rd-nav-link" href="contact-us.php">Contactez-Nous</a>
                   </li>
                 </ul>
               </div>
