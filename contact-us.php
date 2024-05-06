@@ -125,7 +125,7 @@ include('asset/navbar.php');
               </div>
           </div>
         </div>
-        
+
               <section class="section section-md bg-gray-100">
         <div class="container">
           <h3 class="text-center">Nous envoyer un message</h3>
@@ -137,40 +137,48 @@ include('asset/navbar.php');
               <div class="row row-x-16 row-20">
                   <div class="col-md-6">
                     <div class="form-wrap">
+
             <label for="nom">Nom :</label>
-            <input type="text" name="nom" required>
+            <input class="form-input" id="contact-name" type="text" name="nom" data-constraints="@Required">
+
             </div>
                   </div>
                   <div class="col-md-6">
                     <div class="form-wrap">
 
             <label for="prenom">Prénom :</label>
-            <input type="text" name="prenom" required>
+            <input class="form-input" id="contact-email" type="email" name="prenom" data-constraints="@Required @Email">
+
 </div>
                   </div>
                   <div class="col-12">
                     <div class="form-wrap">
 
             <label for="email">Email :</label>
-            <input type="email" name="email" required>
+            <input class="form-input" id="contact-name" type="text" name="email" data-constraints="@Required">
+
  </div>
                   </div>
                   <div class="col-md-6">
                     <div class="form-wrap">
 
             <label for="telephone">Téléphone :</label>
-            <input type="text" name="telephone" required>
+            <input class="form-input" id="contact-name" type="text" name="tel" data-constraints="@Required">
+
             </div>
                   </div>
                   <div class="col-md-6">
                     <div class="form-wrap">
             <label for="description">Description :</label>
-            <textarea name="description" rows="4" required></textarea>
+            <textarea class="form-input" id="contact-message" name="message" data-constraints="@Required"></textarea>
+
 </div>
                   </div>
                   <div class="col-md-6">
                     <div class="form-wrap form-button">
-            <input type="submit" value="Envoyer">
+
+            <input class="button button-block button-primary" type="submit" value="Envoyer">
+
             </div>
                   </div>
                 </div>
