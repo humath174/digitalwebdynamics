@@ -122,6 +122,24 @@ include('asset/navbar.php');
                   </div>
                 </div>
               </form>
+              <form action="asset/demande_formulaire_contact.php" method="post">
+            <label for="nom">Nom :</label>
+            <input type="text" name="nom" required>
+
+            <label for="prenom">Prénom :</label>
+            <input type="text" name="prenom" required>
+
+            <label for="email">Email :</label>
+            <input type="email" name="email" required>
+
+            <label for="telephone">Téléphone :</label>
+            <input type="text" name="telephone" required>
+
+            <label for="description">Description :</label>
+            <textarea name="description" rows="4" required></textarea>
+
+            <input type="submit" value="Envoyer">
+        </form>
             </div>
           </div>
         </div>
